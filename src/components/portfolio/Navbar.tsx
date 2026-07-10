@@ -32,7 +32,7 @@ const Navbar = () => {
         </ul>
 
         <Button asChild size="sm" variant="outline" className="border-border bg-secondary/50 hover:bg-secondary hover:text-data-point">
-          <a href="/cv.pdf" download>
+          <a href="/CV- Jasso Darieth.pdf" download>
             <Download className="mr-2 h-4 w-4" /> CV
           </a>
         </Button>
