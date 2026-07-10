@@ -48,7 +48,8 @@ const About = () => {
             desde la arquitectura hasta el último píxel.
           </p>
           <div className="mt-6 flex flex-wrap gap-4 text-sm text-muted-foreground">
-            <span className="inline-flex items-center gap-2"><MapPin className="h-4 w-4 text-data-point" /> Ciudad de México</span>
+            <span className="inline-flex items-center gap-2"><MapPin className="h-4 w-4 text-data-point" /> Nayarit, Mexico</span>
+            <span className="inline-flex items-center gap-2"><MapPin className="h-4 w-4 text-data-point" /> Disponibilidad Recolocacion</span>
             <span className="inline-flex items-center gap-2"><Calendar className="h-4 w-4 text-data-point" /> 4+ años de experiencia</span>
           </div>
         </div>
